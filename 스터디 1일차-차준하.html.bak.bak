@@ -1,0 +1,102 @@
+﻿<!DOCTYPE HTML>
+<html lang="en">
+<HEAD>
+ <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="cha jun ha">
+  <meta name="Keywords" content="html">
+  <meta name="Description" content="스터디 1일차 - html로 시간표 만들어보기">
+  
+<TITLE>스터디 1일차 과제</TITLE>   
+</HEAD>	 
+<BODY>
+<hr></hr>
+<a href="https://everytime.kr/timetable">시간표 확인하기(에브리타임)</a>
+<hr></hr>
+<TABLE width="600"align="center" border="4" cellpadding="10">
+  <CAPTION>My Timetable</CAPTION>
+  <TBODY>
+  <TR height="80">
+    <TH></TH>                
+    <TH>월</TH>
+    <TH>화</TH>
+    <TH>수</TH>
+    <TH>목</TH>
+    <TH>금</TH>
+	</TR>
+  <TR height="80">
+    <TD>오전 9시</TD>
+    <TD style="background-color:#00D8FF"rowspan="2">생명과나눔(실시간 화상 강의)<br></br><font size="1em">계승희 화상강의강의실(가상)</font></TD>
+	<TD></TD>
+	<TD></TD>
+	<TD style="background-color:#ABF200"rowspan="2">사고와 표현<br></br><font size="1em">이현승 비전타워-308</font></TD>
+	<TD></TD>
+	</TR>
+  <TR height="80"> 
+    <TD>오전 10시</TD>
+	<TD></TD>
+	<TD></TD>
+	<TD></TD>
+	</TR>
+  <TR height="80">
+    <TD>오전 11시</TD>>
+    <TD style="background-color:#FFA2FF"rowspan="2">디자인감상 및 비평
+	<br></br><font size="1em">박소영 비전타워-317</font></TD>
+	<TD STYLE="BACKGROUND-COLOR: #FFB85A">소프트웨어 수학<br></br><font size="1em">민홍 IT대학-413</font></TD>
+	<TD></TD>
+	<TD STYLE="BACKGROUND-COLOR: #FFB85A">소프트웨어 수학<br></br><font size="1em">민홍	IT대학-413</font></TD>
+	<TD STYLE="BACKGROUND-COLOR: #2478FF" ROWSPAN="2">College English 1<br></br><font size="1em">BUSA JI H 글로벌센터-306</font></TD>
+	</TR>
+  <TR height="80">
+    <TD>오후 12시</TD>
+	<TD></TD>
+	<TD></TD>                
+	<TD></TD>          
+	</TR>
+  <TR height="80">
+    <TD>오후 1시</TD>
+    <TD  STYLE="BACKGROUND-COLOR:#C6C6C6"rowspan="2">프로그래밍 기초<br></br><font size="1em">한명묵 IT대학-601</font></TD>
+	<TD></TD>
+	<TD  STYLE="BACKGROUND-COLOR:#C6C6C6"rowspan="2">프로그래밍 기초<br></br><font size="1em">한명묵 IT대학-601</font></TD>
+	<TD></TD>
+	<TD STYLE="BACKGROUND-COLOR:#FFFF48"rowspan="2">지능형 정보 기술<br></br><font size="1em">최성자 비전타워-201</font></TD>
+	</TR>
+  <TR height="80">
+    <TD>오후 2시</TD>
+	<TD></TD>
+	<TD></TD>
+	</TR>
+  <TR height="80">
+    <TD>오후 3시</TD>
+	<TD></TD>
+	<TD></TD>
+	<TD></TD>         
+	<TD></TD>
+	<TD></TD>
+	</TR>
+  <TR height="80">
+    <TD>오후 4시</TD>
+	<TD></TD>
+	<TD STYLE="BACKGROUND-COLOR:#CB6CFF" rowspan="2">웹프로그래밍<br></br><font size="1em">이상웅 IT대학-412,비전타워-B208B</font></TD>
+	<TD></TD>
+	<TD STYLE="BACKGROUND-COLOR:#CB6CFF" rowspan="2">웹프로그래밍<br></br><font size="1em">이상웅 IT대학-412,비전타워-B802B</font></TD>
+	<TD></TD>
+	</TR>
+  <TR height="80">
+    <TD>오후 5시</TD>
+	<TD STYLE="BACKGROUND-COLOR:#FF7E7E" rowspan="2">인성세미나(P/F)<br></br><font size="1em"></font>민홍</TD>
+	<TD></TD>
+	<TD></TD>
+	</TR>
+  <TR height="80">
+    <TD>오후 6시</TD>
+	<TD></TD>
+	<TD></TD>
+	<TD></TD>
+	<TD></TD>
+	</TR>
+
+	</TBODY>
+</TABLE>
+ </BODY>
+</HTML>
